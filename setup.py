@@ -10,6 +10,6 @@ setup(
     url='https://github.com/davidyen1124/Google-Image',
     packages=['gooimage'],
     install_requires=[
-        'requests==2.4.3',
+        'requests==2.20.0',
     ],
 )
